@@ -1,4 +1,3 @@
-import Foundation
 import ScadeKit
 
 class MainPageAdapter: SCDLatticePageAdapter {
